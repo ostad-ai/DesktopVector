@@ -74,7 +74,7 @@ The app appears as a floating window that stays on top of other applications.
 |------|--------|
 | `Ctrl+Z` | Undo |
 | `Ctrl+Y` | Redo |
-| `Arrow keys' | Move shapes |
+| `Arrow keys` | Move shapes |
 | `Delete` | Delete selected shape(s) |
 | `Ctrl+G` | Group selected |
 | `Ctrl+Shift+G` | Ungroup group |
